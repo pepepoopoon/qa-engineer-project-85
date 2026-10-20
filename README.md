@@ -17,7 +17,10 @@
 
 ## Стек
 
-- Разное
+- Git, GitHub
+- YAML, Markdown
+- Google Chrome DevTools
+- Ручное тестирование
 
 ## Установка
 
