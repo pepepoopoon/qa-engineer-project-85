@@ -1,0 +1,21 @@
+---
+- summary: Успешная авторизация через GitHub
+  status: pass
+- summary: Успешное создание игры против бота
+  status: pass
+- summary: Выбор уровня сложности при создании игры
+  status: pass
+- summary: Выбор конкретной задачи при создании игры
+  status: pass
+- summary: Переключение языка программирования в игре
+  status: pass
+- summary: Редактирование кода в игровом редакторе
+  status: pass
+- summary: Запуск тестов для проверки решения
+  status: pass
+- summary: Отображение результата проверки неправильного решения
+  status: pass
+- summary: Отправка сообщения в игровой чат
+  status: pass
+- summary: Просмотр рейтинга пользователей
+  status: pass
