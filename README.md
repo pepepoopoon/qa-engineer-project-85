@@ -38,7 +38,7 @@
 
 - Git, GitHub
 - YAML, Markdown
-- Chromium; Google Chrome 156.0.8078.48
+- Google Chrome 156.0.8078.48
 - Ручное тестирование
 
 ## Установка
