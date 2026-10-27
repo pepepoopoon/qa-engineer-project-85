@@ -19,3 +19,11 @@
   status: pass
 - summary: Просмотр рейтинга пользователей
   status: pass
+- summary: Победа после отправки правильного решения
+  status: pass
+- summary: Поражение после победы соперника
+  status: pass
+- summary: Завершение игры по истечении времени
+  status: pass
+- summary: Завершение игры после сдачи пользователя
+  status: pass
